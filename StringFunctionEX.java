@@ -1,4 +1,4 @@
-public class Banana{
+public class StringFunctionEX{
 
 public static void main(String args[]){
 
