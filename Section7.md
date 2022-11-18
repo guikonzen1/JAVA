@@ -33,6 +33,7 @@ Para verificar o que cada um faz e como funcionam basta visualizar nesse <a href
 
 <li>str.Split(" ")</li> já o split funciona diferente das outras, essa função pega os valores separados por um espaço dentro de uma string e o transforma em variáveis colocando dentro de vetores cada valor.
 
+![image](https://user-images.githubusercontent.com/108848546/202773774-8ba7e344-e33b-42a4-be10-186d3176f551.png)
 
 
 
