@@ -35,6 +35,8 @@ Para verificar o que cada um faz e como funcionam basta visualizar nesse <a href
 
 ![image](https://user-images.githubusercontent.com/108848546/202773774-8ba7e344-e33b-42a4-be10-186d3176f551.png)
 
+## Funções SITAXICAS
+
 
 
 
