@@ -9,3 +9,30 @@ Porém esse código traz um problema, Triângulo é uma entidade com três atrib
 para melhorar isso, vamos usar uma <b>CLASSE<b/> para representar um triângulo.
 ##
 ## Classe
+  
+<body>
+<ul>É um tipo estruturado que pode conter (membros):
+<li>Atributos (dados / campos)</li>
+  <li>Métodos (funções / operações)</li>
+</ul>
+</body>
+  
+<body>
+<ul>A classe também pode prover muitos outros recursos, tais como:
+<li>Construtores</li>
+<li>Sobrecarga</li>
+<li>Encapsulamento</li>
+<li>Herança</li>
+<li>Polimorfismo</li>
+</ul>
+</body>
+  
+<body>
+<ul>Exemplos:
+<li>Entidades: Produto, Cliente, Triangulo</li>
+<li>Serviços: ProdutoService, ClienteService, EmailService, StorageService</li>
+<li>Controladores: ProdutoController, ClienteController</li>
+<li>Utilitários: Calculadora, Compactador</li>
+<li>Outros (views, repositórios, gerenciadores, etc.)</li>
+</ul>
+</body>
