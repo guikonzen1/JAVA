@@ -37,6 +37,12 @@ Para verificar o que cada um faz e como funcionam basta visualizar nesse <a href
 
 ## Funções SITAXICAS
 
+As Funções sintaxicas são funções personalizadas, esse código foi criado para achar o maior valor entre tre números:
 
+![image](https://user-images.githubusercontent.com/108848546/206006251-4c39e82d-9db5-4777-ac17-1489f2395ba8.png)
 
+Podemos diminuir a quantidade de caracteres dentro da função main usando duas funções personalizadas, como no código a seguir que faz a mesma coisa do primeiro:
 
+![image](https://user-images.githubusercontent.com/108848546/206004507-aa943645-cbc7-4568-bb7a-b51b37a54594.png)
+
+Para criar funções personalizadas elas precisam ser definidas dentro da classe e após a função main, como no código acima.
