@@ -49,6 +49,10 @@ para melhorar isso, vamos usar uma <b>CLASSE<b/> para representar um triângulo.
   Mas como é salvo 2 valores diferentes em uma mesma variável? isso é chamado de alocação dinâmica. As variáveis estaticas ficam armazenadas numa área da memória chamada stack, quando executamos nosso programa ele faz uma alocação dinâmica de memória, isso é, durante a execução do programa será criado um endereço na area heap da memória, essa área é onde é criado os objetos dinâmicos durante a execução do projeto. Nesse caso acima a variável x e y são variáveis estaticas, quando o programa é executado elas apontam pra um local dentro da memóra Heap e nesse endereço tem os 3 valores indicados:
  
   ![image](https://user-images.githubusercontent.com/108848546/206928917-2302aad8-2530-4e22-ab86-a7c59719e86c.png)
+  
+  Essa imagem resume tudo:
+  
+  ![image](https://user-images.githubusercontent.com/108848546/206930143-d1ac93a0-6e66-4271-b13d-7e4d7b9d0fdf.png)
 
   
   
